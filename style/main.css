@@ -129,7 +129,26 @@ padding-bottom: 30px;
     height: 1069px;
     gap: 0px;
     opacity: 0px;
-    background-color: #F1D3B9;}
+    background-color: #F1D3B9;
+    position: relative;
+}
+.ttt{
+    position: absolute;
+    top: 61px;
+    left: 183px;
+}
+.yyy{
+position: absolute;
+top: 535px;
+left: 100px;
+}
+.www{
+position: absolute;
+top: 285px;
+left: 765px;
+
+
+}
 
 .class{
 font-size: 20px;
